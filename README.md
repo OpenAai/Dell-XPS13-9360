@@ -1,3 +1,3 @@
 # Dell-XPS13-9360
 Ubuntu 16.04 and up installation
-Dit is een methode om de bluetooth module van de XPS13 9360 te laten werken
+A quick way to get the bluetooth module up and running on the XPS13
